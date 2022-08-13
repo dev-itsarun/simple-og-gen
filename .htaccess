@@ -1,0 +1,5 @@
+RewriteEngine On
+
+#RewriteRule ^[^/]+\.png$ index.php [L]
+
+RewriteRule ^/(.*)$ index.php?file=$1 [NC,L]
