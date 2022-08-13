@@ -16,9 +16,9 @@
 
 - EX : yourdomain.com/api/?text=God is Great&site=localhost
 
-`
-<img src="yourdomain.com/api/?text=God is Great&site=localhost" alt="test" />
-`
+
+`<meta property="og:image"  content="yourdomain.com/api/?text=God is Great&site=localhost" />`
+
 
 ------------
 
@@ -28,6 +28,10 @@
 
 ------------
 
+#### Demo Image
 
+![](https://raw.githubusercontent.com/dev-itsarun/simple-og-gen/main/assets/demo.png)
+
+------------
 
 
