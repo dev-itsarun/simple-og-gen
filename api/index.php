@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 
 function gradient($w, $h , $c, $hex) {
 

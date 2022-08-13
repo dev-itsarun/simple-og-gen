@@ -12,8 +12,10 @@
 <body class="font-mono bg-gray-300 w-screen h-screen flex items-center justify-center">
     <div>
         <div class="text-5xl font-bold">
-            Free OG Image Generator
+            Free OG Image Generator in PHP
         </div>
+        <p>Need PHP <b>GD</b> Library </p>
+        <br>
         <p>use like this : <?php echo "https://".$_SERVER["SERVER_NAME"]."/api/?text=God is Great&site=".$_SERVER["SERVER_NAME"]; ?></p>
     </div>
 </body>
